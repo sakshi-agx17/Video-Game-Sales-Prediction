@@ -72,7 +72,3 @@ vedio-games-sales-prediction/
 ├── vgsales.csv                 # Dataset (16,599 video game records)
 └── README.md                   # Documentation
 ```
-
----
-
-*Last Updated: January 2026*
